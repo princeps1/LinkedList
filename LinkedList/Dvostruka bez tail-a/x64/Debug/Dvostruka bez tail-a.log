@@ -1,0 +1,5 @@
+﻿  DList.cpp
+  main.cpp
+D:\FAKULTET\CETVRTI SEMESTAR\STRUKTURE PODATAKA\ZADACI\ISPIT\Lancana Lista\Dvostruka bez tail-a\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Dvostruka bez tail-a.vcxproj -> D:\FAKULTET\CETVRTI SEMESTAR\STRUKTURE PODATAKA\ZADACI\ISPIT\Lancana Lista\x64\Debug\Dvostruka bez tail-a.exe
